@@ -1,0 +1,12 @@
+Package: crunchdown
+Title: 'pkgdown' template for crunch packages
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Gordon", "Shotwell", , "gordon@crunch.io", role = c("aut", "cre")),
+    person("Crunch", role = "cph")
+  )
+Description: This is a private template for crunch packages
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
