@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .sass-cache
+
+\.DS_Store
+
+docs/
